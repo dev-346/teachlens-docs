@@ -1,6 +1,11 @@
 # 📘 TeachLens
 
-TeachLens is a privacy-first, AI-powered diagnostic and teaching decision support system designed to help teachers clearly understand student learning and take the right instructional action — without relying on cloud storage or centralized student data.
+TeachLens is a smart classroom decision-support app designed for teachers.
+It helps teachers quickly create assessments, run diagnostic quizzes, and understand exactly where students are struggling — without complex analytics or manual analysis.
+
+TeachLens acts like a teaching assistant: it analyzes student responses, detects learning gaps, highlights misconceptions, and recommends clear next steps such as practice, review, or reteaching. All data is stored locally, quizzes can run over a local network, and student privacy is fully maintained — no cloud dependency required.
+
+In short, TeachLens helps teachers see their class clearly and teach with confidence.
 
 TeachLens focuses on learning patterns, misconceptions, and instructional clarity, not just scores.
 
