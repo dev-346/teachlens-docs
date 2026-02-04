@@ -28,7 +28,7 @@ If you forget your password, you can use the "Forgot Password" link on the login
 > **Important:** Your password only protects the data on your local device. It is not stored online and cannot be recovered by TeachLens support if you lose both your password and your license key.
 
 ## Step 3: Get Your Google AI API Key
-TeachLens uses Google's powerful Gemini models to generate high-quality assessment content. To use this feature, you need an API key from Google AI Studio. Your key is stored securely and locally on your device.
+TeachLens uses Google's powerful Gemini models to generate high-quality assessment content. To use this feature, you need an API key from Google AI Studio. Your key is encrypted and stored securely and locally on your device.
 
 1.  **Visit Google AI Studio:** Open your web browser and go to [https://aistudio.google.com/app/apikey](https://aistudio.google.com/app/apikey).
 2.  **Sign In:** Sign in with your Google account.
