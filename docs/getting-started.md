@@ -45,8 +45,9 @@ Now, let's add your new API key to TeachLens.
 1.  **Navigate to Settings:** In the TeachLens app, click on the **Settings** icon in the application header or the left-hand sidebar.
 2.  **Paste Your Key:** In the "Gemini API Key" field, paste the key you copied from Google AI Studio.
 3.  **Select a Model (Optional):**
-    *   **Gemini 1.5 Flash:** Recommended for most users. It's fast and provides a great balance of quality and cost.
-    *   **Gemini 1.5 Pro:** More powerful for complex topics, but slightly slower.
-4.  **Save Settings:** Click the **"Save All Settings"** button.
+    *   **Gemini 2.5 Flash Lite:** Ultra-fast and low-cost, ideal for simple tasks and real-time use cases.
+    *   **Gemini 2.5 Flash:** Recommended for most users. It's fast and provides a great balance of quality and cost.
+    *   **Gemini 2.5 Pro:** More powerful for complex topics, but slightly slower.
+5.  **Save Settings:** Click the **"Save All Settings"** button.
 
 You are now ready to start creating assessments!
