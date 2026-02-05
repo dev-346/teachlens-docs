@@ -2,7 +2,7 @@
 
 The Class Diagnostic Quiz turns the teacher’s computer into a local server, enabling students to join a live quiz session, submit responses in real time, and allowing instant diagnostic analysis.
 
-## ⚠️ Prerequisites: Local Network Setup
+### ⚠️ Prerequisites: Local Network Setup
 
 **Critical Requirement**
 
