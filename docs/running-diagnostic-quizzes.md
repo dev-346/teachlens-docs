@@ -20,7 +20,7 @@ Internet access is not required once all devices are on the same local network.
 
 -   Navigate to **New Assessment**
 -   Fill out the assessment form
--   Select **Conduct Diagnostic Quiz** as the Assessment Type
+-   Select **Class Diagnostic Quiz** as the Assessment Type
 -   Add questions
     -   *Only Multiple Choice Questions (MCQs) are supported*
 -   Click **Generate Questions**
