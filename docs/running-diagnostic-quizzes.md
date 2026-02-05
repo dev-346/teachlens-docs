@@ -1,10 +1,10 @@
-🚀 Running a Live Diagnostic Quiz
+###🚀 Running a Live Diagnostic Quiz
 
 The Class Diagnostic Quiz turns the teacher’s computer into a local server, enabling students to join a live quiz session, submit responses in real time, and allowing instant diagnostic analysis.
 
 ⚠️ Prerequisites: Local Network Setup
 
-**Critical Requirement**
+###**Critical Requirement**
 
 The teacher’s computer and all student devices must be connected to the same local Wi-Fi network or mobile hotspot.
 
