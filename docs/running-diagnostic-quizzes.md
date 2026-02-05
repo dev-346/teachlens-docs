@@ -16,7 +16,7 @@ Internet access is not required once all devices are on the same local network.
 
 # 👨‍🏫 Teacher Guide: Starting a Live Quiz
 
-**1️⃣ Create a Diagnostic Quiz**
+### **1️⃣ Create a Diagnostic Quiz**
 
 -   Navigate to **New Assessment**
 -   Fill out the assessment form
@@ -26,7 +26,7 @@ Internet access is not required once all devices are on the same local network.
 -   Click **Generate Questions**
 -   Review and edit questions on the Edit Assessment screen
 
-**2️⃣ Start the Listening Session**
+### **2️⃣ Start the Listening Session**
 
 You can start the live quiz session in two ways:
 
@@ -50,7 +50,7 @@ You can start the live quiz session in two ways:
 -   You may minimize the app or use other features
 -   The session automatically ends once all student responses are received
 
-**3️⃣ Share the Quiz with Students**
+### **3️⃣ Share the Quiz with Students**
 
 -   On the Diagnostic Results Page, click **Share Quiz Link**
 -   Students can join using:
@@ -63,11 +63,11 @@ You can start the live quiz session in two ways:
 
 # 👩‍🎓 Student Guide: Joining the Quiz
 
-**1️⃣ Connect to the Same Network**
+### **1️⃣ Connect to the Same Network**
 
 -   Ensure the student device is connected to the same Wi-Fi or hotspot as the teacher
 
-**2️⃣ Join the Session**
+### **2️⃣ Join the Session**
 
 -   **Option A:** Scan the QR code displayed by the teacher
 -   **Option B:**
@@ -75,13 +75,13 @@ You can start the live quiz session in two ways:
     -   Visit the join link
     -   Enter the 6-character quiz code
 
-**3️⃣ Enter Details & Take Quiz**
+### **3️⃣ Enter Details & Take Quiz**
 
 -   Enter full name (first and last name)
 -   Quiz loads automatically
 -   Status indicator shows **Connected to Teacher**
 
-**4️⃣ Submit Responses**
+### **4️⃣ Submit Responses**
 
 -   Click **Submit** after answering all questions
 -   Responses are sent instantly to the teacher’s device
