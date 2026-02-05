@@ -20,23 +20,18 @@ Once you have a sufficient number of responses, click the **"Analyze Results"** 
 The report is broken down into several key sections:
 
 ### 🚦 Teaching Decision & Actions
-This is your high-level summary and the most important part of the report. It's a clear, color-coded recommendation for your next instructional move, with action buttons to generate follow-up materials directly.
+This is your high-level summary. It's a clear, color-coded recommendation for your next instructional move, with action buttons to generate follow-up materials directly.
 
-*   **🔴 Reteach Required:**
-    *   **What it means:** This indicates a fundamental misunderstanding of the core concepts. It's not just a few mistakes; the majority of the class struggled significantly, suggesting the foundational knowledge is not secure. Simply assigning more practice will not be effective.
-    *   **Action:** Click **"Generate Reteaching Plan"** to create a data-driven lesson plan. This isn't just a list of topics; it's a structured plan that identifies the key misconceptions, provides concrete strategies and analogies to clarify them, and suggests specific in-class activities to address the learning gaps.
+*   **🔴 Reteach Required:** Indicates a fundamental misunderstanding of the core concepts. The majority of the class struggled significantly.
+    *   **Action:** Click **"Generate Reteaching Plan"** to create a data-driven lesson plan targeting the identified gaps. This plan includes key misconceptions, clarification strategies, and suggested activities.
 
-*   **🟡 Practice Required:**
-    *   **What it means:** Your students have a basic grasp of the concepts but are making consistent, often procedural, errors. They need more repetition and targeted practice to build fluency and accuracy.
-    *   **Action:** Click **"Generate Adaptive Follow-up Quiz"** to create a new quiz. This is an *adaptive* quiz, meaning it specifically targets the weak areas, error patterns, and common wrong answers that the AI identified in the original diagnostic, giving students the exact practice they need.
+*   **🟡 Practice Required:** Students have a basic grasp of the concepts but are making consistent errors. They need more practice to build fluency.
+    *   **Action:** Click **"Generate Adaptive Follow-up Quiz"** to create a new quiz that specifically targets the weak areas and misconceptions identified.
 
-*   **🟠 Review Suggested:**
-    *   **What it means:** Understanding in your class is uneven. Some students have mastered the material, while a significant group is lagging behind. A full-class reteach isn't necessary, but moving on would leave many students unprepared for the next topic.
-    *   **Action:** Click **"Generate Adaptive Follow-up Quiz"**. This allows you to provide targeted practice for the group of students who need it, helping them catch up without holding back those who are ready for enrichment.
+*   **🟠 Review Suggested:** Understanding is uneven. Some students have mastered the material, while others are lagging. A targeted review is recommended before moving on.
+    *   **Action:** Click **"Generate Adaptive Follow-up Quiz"** to create a new quiz for the students who need more practice.
 
-*   **🟢 Move On:**
-    *   **What it means:** The class has demonstrated a strong and consistent understanding of the material. The AI did not detect any significant, widespread learning gaps.
-    *   **Action:** No action is needed. You can confidently move on to the next topic in your curriculum.
+*   **🟢 Move On:** The class has demonstrated a strong understanding of the material. You can confidently move on to the next topic.
 
 ### 🎯 Primary Learning Concern
 This section provides a plain-language explanation of the single biggest conceptual misunderstanding that the AI identified in the class. It answers the question, "What is the *one thing* my students are getting wrong the most?"
