@@ -28,6 +28,7 @@ This allows teachers to spend less time analyzing and more time teaching.
 ### 📚 Full Documentation
 
 - **[Getting Started](./docs/getting-started.md)**: A guide to setup TeachLens.
+- **[Generating a Question Paper](./docs/running-diagnostic-quizzes.md)**: How to run a live quiz session with your students.
 - **[Running a Diagnostic Quiz](./docs/running-diagnostic-quizzes.md)**: How to run a live quiz session with your students.
 - **[Understanding Results](./docs/understanding-results.md)**: How to interpret the AI-powered analysis.
 - **[Offline QR Mode](./docs/offline-qr-mode.md)**: Submitting responses without a live network connection.
